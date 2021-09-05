@@ -1,0 +1,10 @@
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\bin\Debug\appListaSimple.exe.config
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\bin\Debug\appListaSimple.exe
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\bin\Debug\appListaSimple.pdb
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\obj\Debug\appListaSimple.csproj.AssemblyReference.cache
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\obj\Debug\appListaSimple.Form1.resources
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\obj\Debug\appListaSimple.Properties.Resources.resources
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\obj\Debug\appListaSimple.csproj.GenerateResource.cache
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\obj\Debug\appListaSimple.csproj.CoreCompileInputs.cache
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\obj\Debug\appListaSimple.exe
+C:\Users\Raquel Maya\source\repos\appListaSimple\appListaSimple\obj\Debug\appListaSimple.pdb
